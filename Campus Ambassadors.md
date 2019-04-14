@@ -31,7 +31,7 @@ To get started, fill [this form](https://forms.gle/v1g8ZbivGcAieT687) or contact
 * Preferably, one boy and one girl will be chosen from each college.
 
 ## How long do I remain a campus ambassador?
-A standard term will last 1 full year and we will encourage new applications from your institution after that. However, in limited circumstances, these terms may vary. If you are not active in our groups or we find you are not suitable for the job, we may end your ambassadorship from our end without any benefits.
+A standard term will last 6 months and we will allow you to renew your term for another 6 months after that. However, in limited circumstances, these terms may vary. If you are not active in our groups or we find you are not suitable for the job, we may end your ambassadorship from our end without any benefits.
 
 ## Terms and Conditions
 * Participation in this program is completely free and does not form any legal relationship between AndroidDev Jaipur and the participants. This is not a job, internship or contract work. There is no payment or compensation required for this work.
