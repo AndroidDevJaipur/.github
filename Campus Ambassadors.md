@@ -23,6 +23,13 @@ AndroidDev Jaipur brings to you the opportunity to represent AndroidDev Jaipur a
 ## Ok, That sounds great, how do I get started?
 To get started, fill [this form](https://forms.gle/v1g8ZbivGcAieT687) or contact an organizer today.
 
+## How will I be selected?
+* Firstly, you need to fill the form linked above.
+* We will shortlist some candidates from each college/university and will invite them for an interview
+* You will be asked to select a convenient date/time slot for the interview.
+* We will call you at your mobile number to conduct the interview.
+* Preferably, one boy and one girl will be chosen from each college.
+
 ## How long do I remain a campus ambassador?
 A standard term will last 1 full year and we will encourage new applications from your institution after that. However, in limited circumstances, these terms may vary. If you are not active in our groups or we find you are not suitable for the job, we may end your ambassadorship from our end without any benefits.
 
