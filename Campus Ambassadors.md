@@ -36,7 +36,7 @@ To get started, fill [this form](https://forms.gle/v1g8ZbivGcAieT687) and we wil
 A standard term will last 6 months and we will allow you to renew your term for another 6 months after that. However, in limited circumstances, these terms may vary. If you are not active in our groups or we find you are not suitable for the job, we may end your ambassadorship from our end without any benefits.
 
 ## About hosting events
-From tune to time, we will contact you about opportunities to host events under the banner of AndroidDev Jaipur. You will also be encouraged to conduct workshops and smaller meetups at your college. A sample proposal from AndroidDev Jaipur will be provided to you. You may get the proposal approved from your college to allow us to host meetups and other events at your institution. When hosting a major event,
+From time to time, we will contact you about opportunities to host events under the banner of AndroidDev Jaipur. You will also be encouraged to conduct workshops and smaller meetups at your college. A sample proposal from AndroidDev Jaipur will be provided to you. You may get the proposal approved from your college to allow us to host meetups and other events at your institution. When hosting a major event,
 * You will be recognized as a co-organizer for the event.
 * We may visit the event venue beforehand for inspection.
 * You will be responsible for arranging proper permissions, including the event venue, entrance for participants not belonging to your institution and other permissions, if required.
