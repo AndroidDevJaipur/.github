@@ -18,6 +18,7 @@ The following volunteer positions are open (as of last update):-
 - **Logistics** - You are responsible for the entire preparation of the event. Making sure people have enough extension cords to charge their laptops, making sure the mics are in place for the speakers, the vga cables are in place and the list goes on.
 - **Discipline and Security** - You know what happens when 200 odd youths gather together. You are responsible for making sure all attendees are registered properly, are carrying valid ID, kicking out any unfortunate rogue attendees and making sure people only enter areas where they are supposed to.
 - **Web and app development** - We need a website (and maybe) an app, you help us develop those well in time for our event.
+- **Photography** - You are responsible for capturing the event on record!
 ## Benifits of Volunteering
 - An exclusive volunteer ID card with your name and the Kotlin Logo.
 - An exclusive digital certificate which you can showcase on your online profiles.
