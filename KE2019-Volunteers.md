@@ -40,6 +40,7 @@ For any doubts, you may contact any of the organizers or send an email at adevja
 ## Terms and Conditions
 - This call for volunteers is being issued by AndroidDev Jaipur, a developer community in Jaipur. The organizers take no liability for any personal injury, loss or even death caused due to your participation in this program.
 - Participation in this program is completely free and does not form any legal relationship between AndroidDev Jaipur and the participants. This is not a job, internship or contract work. There is no payment or compensation expected or provided for this.
+- Any information you obtain in regard to this event, while in your position as a volunteer, either directly or indirectly, is to be considered confidential (unless explicitly stated otherwise) and should not be revealed to any other person or group.
 - You must be a citizen of India and be atleast 18 years old to participate in this program.
 - The benefits promised above are indicative and are subject to change/be withdrawn without notice. No monetary payment is due under any circumstances.
 - Your selection in this program is at the organizers' discretion and can be terminated without any cause at any moment with a verbal or written notice. The organizers' are not liable to provide proper reason for such termination.
