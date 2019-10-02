@@ -1,4 +1,9 @@
 # AndroidDev Jaipur Campus Ambassador Program
+
+**IMPORTANT: The AndroidDev Jaipur Campus Ambassador Program is no longer active. If you are an existing campus ambassador, please contact the organizers via Telegram/Email for more details. This page is kept for information purposes only and will be archived shortly.**
+
+___
+
 AndroidDev Jaipur brings to you the opportunity to represent AndroidDev Jaipur at your college. Open to students currently enrolled in an undergraduate degree at any college in Jaipur. We will be selecting a maximum of 2 students from each qualifying institution in Jaipur.
 
 ## Perks of being a campus ambassador
